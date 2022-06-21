@@ -1,6 +1,6 @@
 const mongodb = require('mongodb').MongoClient;
 
-const connectionString = "mongodb+srv://dbbbsantos:semLAR435-@cluster0.9t1vc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+const connectionString = key_mongo
 
 async function connect() {
   try {
